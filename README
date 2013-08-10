@@ -1,0 +1,1 @@
+This is an example of round robin scheduling modeled after a Linux-type system. The scheduling code is written in Java which is run with the OSP2 environment. Yeah, who in their right mind writes scheduling algorithms for an operating system in Java?
